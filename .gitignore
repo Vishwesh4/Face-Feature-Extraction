@@ -1,0 +1,10 @@
+/Data_Collection
+/Rating_Collection
+/training.csv
+/test.csv
+/Training_Images.pkl
+/Test_Images.pkl
+/vgg16_weights.h5
+/Training_featext
+/Training_featext_backup.h5
+/Feature_Extraction.ipynb
